@@ -1,5 +1,7 @@
 # Mabulu
 ## Índice
+
+[![Join the chat at https://gitter.im/mabulu-im/mabulu-im](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mabulu-im/mabulu-im?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 1. [Descrição](#descricao)
 2. [Funcionalidades](#funcionalidades)
 3. [Instalação](#instalacao)
