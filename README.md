@@ -32,7 +32,7 @@ pessoa interessada.
 ## <a name="contribuicoes">4. Contribuições</a>
 Devido ao facto de o projecto estar na sua fase embrionária, agradecia que
 enviassem contribuições relativas à funcionalidades, para tal, é necessário seguir
-o [link](http://github.com/mabulu-im/mabulu-im/issue)
+o [link](http://github.com/mabulu-im/mabulu-im/issues/new)
 
 ## <a name="autor">5. Autor</a>
 - Edson Michaque
